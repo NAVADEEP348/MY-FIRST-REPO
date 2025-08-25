@@ -1,3 +1,3 @@
 Name: DRAKSHARAPU DURGA NAVADEEP
-Course: 3rd B.Sc Data Science
-One thing i learned about Github: we can get large amount of data or source codes in github which helps to reference of a projects
+Course: 3rd B.Sc Data Science.
+One thing i learned about Github: we can get large amount of data or source codes in github which helps to reference of a projects.
